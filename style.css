@@ -5,26 +5,26 @@ html {
   font-family: Ubuntu;
   color: #fff;
 }
-::-webkit-scrollbar { 
-  width: 3px; 
+::-webkit-scrollbar {
+  width: 3px;
   height: 3px;
 }
-  ::-webkit-scrollbar-track {  
-  background-color: #cecece;;
+::-webkit-scrollbar-track {
+  background-color: #cecece;
 }
-  ::-webkit-scrollbar-track-piece { 
-    background-color: white;
-    opacity: 0.5;
+::-webkit-scrollbar-track-piece {
+  background-color: white;
+  opacity: 0.5;
 }
-  ::-webkit-scrollbar-thumb { 
-  height: 50px; 
-  background-color: #cecece;; 
+::-webkit-scrollbar-thumb {
+  height: 50px;
+  background-color: #cecece;
   border-radius: 3px;
 }
-  ::-webkit-scrollbar-corner { 
+::-webkit-scrollbar-corner {
   background-color: #646464;
 }
-  ::-webkit-resizer { 
+::-webkit-resizer {
   background-color: #666;
 }
 body {
@@ -65,7 +65,7 @@ ul li {
 .li-line::after {
   content: "|";
   opacity: 50%;
-  margin-left: 1.2em;
+  margin-left: 1em;
 }
 .br {
   margin-bottom: 2em;
