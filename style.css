@@ -28,6 +28,7 @@ html {
   background-color: #666;
 }
 body {
+  overflow: hidden;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
