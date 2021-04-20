@@ -116,3 +116,18 @@ footer {
   padding: 1rem;
   text-align: center;
 }
+@media (max-width: 612px){
+  nav {
+      width: 30em;
+      margin-left: -3em;
+  }
+  .icons {
+    font-size: 60px;
+  }
+  .dc {
+    font-size: 55px;
+  }
+  .h {
+    font-size: 25px;
+  }
+}
