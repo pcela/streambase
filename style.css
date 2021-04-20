@@ -131,3 +131,15 @@ footer {
     font-size: 25px;
   }
 }
+@media (min-width: 320px) {
+  header {
+    margin-left: 1em;
+    margin-top: 3em;
+  }
+  .icons {
+    margin-left: 1em;
+  }
+  .dc {
+    margin-left: 1em;
+  }
+}
