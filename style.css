@@ -1,0 +1,123 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin);
+
+html {
+  min-height: 100%;
+  font-family: Ubuntu;
+  color: #fff;
+}
+::-webkit-scrollbar { 
+  width: 3px; 
+  height: 3px;
+}
+  ::-webkit-scrollbar-track {  
+  background-color: #cecece;;
+}
+  ::-webkit-scrollbar-track-piece { 
+    background-color: white;
+    opacity: 0.5;
+}
+  ::-webkit-scrollbar-thumb { 
+  height: 50px; 
+  background-color: #cecece;; 
+  border-radius: 3px;
+}
+  ::-webkit-scrollbar-corner { 
+  background-color: #646464;
+}
+  ::-webkit-resizer { 
+  background-color: #666;
+}
+body {
+  background: hsla(333, 100%, 53%, 1);
+  background: linear-gradient(90deg, #ff0f7b 0%, hsla(33, 94%, 57%, 1) 100%);
+  background: -moz-linear-gradient(
+    90deg,
+    hsla(333, 100%, 53%, 1) 0%,
+    #f89c2a 100%
+  );
+  background: -webkit-linear-gradient(
+    90deg,
+    hsla(333, 100%, 53%, 1) 0%,
+    hsla(33, 94%, 57%, 1) 100%
+  );
+  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#FF0F7B", endColorstr="#F89B29", GradientType=1 );
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -o-user-select: none;
+}
+header {
+  font-size: 50px;
+  font-weight: bold;
+  margin-top: 4em;
+  text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.3);
+}
+nav {
+  text-align: center;
+  margin-right: 1.5em;
+}
+ul li {
+  display: inline;
+  font-size: 30px;
+  margin-right: 1em;
+}
+.li-line::after {
+  content: "|";
+  opacity: 50%;
+  margin-left: 1.2em;
+}
+.br {
+  margin-bottom: 2em;
+}
+.center {
+  text-align: center;
+}
+h1 {
+  font-weight: 100;
+  font-size: 30px;
+  margin-top: -0.2em;
+  text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.3);
+}
+code {
+  font-size: 26px;
+}
+p {
+  font-weight: 50;
+  font-size: 70px;
+  margin-bottom: 30px;
+  margin-top: 110px;
+  text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.3);
+}
+a {
+  text-shadow: 2px 4px 3px #0000004d;
+  color: white;
+  text-decoration: none;
+}
+a:hover {
+  opacity: 65%;
+  transition: 0.2s;
+}
+.git {
+  font-size: 90px;
+}
+.fb {
+  font-size: 90px;
+}
+.dc {
+  font-size: 85px;
+}
+i {
+  margin-right: 20px;
+}
+name {
+  font-size: 20px;
+}
+.sticky {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
+}
