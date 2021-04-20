@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin);
 
 html {
   min-height: 100%;
@@ -96,12 +96,9 @@ a {
 }
 a:hover {
   opacity: 65%;
-  transition: 0.2s;
+  transition: 0.3s;
 }
-.git {
-  font-size: 90px;
-}
-.fb {
+.icons {
   font-size: 90px;
 }
 .dc {
