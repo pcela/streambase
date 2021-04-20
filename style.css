@@ -116,10 +116,10 @@ footer {
   padding: 1rem;
   text-align: center;
 }
-@media (max-width: 612px){
+@media (max-width: 612px) {
   nav {
-      width: 30em;
-      margin-left: -3em;
+    width: 30em;
+    margin-left: -3em;
   }
   .icons {
     font-size: 60px;
@@ -135,5 +135,8 @@ footer {
   header {
     margin-left: 1em;
     margin-top: 3em;
+  }
+  footer {
+    margin-left: 4.5em;
   }
 }
