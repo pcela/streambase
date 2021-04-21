@@ -29,6 +29,7 @@ html {
   background-color: #666;
 }
 body {
+  margin: 0;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
