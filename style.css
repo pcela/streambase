@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin);
 @import url(https://fonts.googleapis.com/css?family=Source+Code+Pro);
+
 html {
     min-height: 100%;
     font-family: Ubuntu;
@@ -42,9 +43,9 @@ body {
     height: 100vh;
     background: hsla(333, 100%, 53%, 1);
     background: linear-gradient(90deg, #ff0f7b 0%, #f89c2a 100%);
-    background: -moz-linear-gradient( 90deg, hsla(333, 100%, 53%, 1) 0%, #f89c2a 100%);
-    background: -webkit-linear-gradient( 90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%);
-    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#FF0F7B", endColorstr="#F89B29", GradientType=1);
+    background: -moz-linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, #f89c2a 100%);
+    background: -webkit-linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr="#FF0F7B", endColorstr="#F89B29", GradientType=1);
     -moz-user-select: none;
     -webkit-user-select: none;
     -ms-user-select: none;
@@ -144,12 +145,15 @@ footer {
         width: 30em;
         margin-left: -3em;
     }
+
     .icons {
         font-size: 60px;
     }
+
     .dc {
         font-size: 55px;
     }
+
     .h {
         font-size: 25px;
     }
@@ -160,6 +164,7 @@ footer {
         margin-left: 1em;
         margin-top: 3em;
     }
+
     footer {
         margin-left: 4.5em;
     }
