@@ -68,7 +68,7 @@ nav {
     margin-right: -3em;
 }
 
-#about-me {
+#text {
     margin-bottom: 1em;
 }
 
@@ -81,7 +81,7 @@ ul li {
 .li-line::after {
     content: "|";
     opacity: 50%;
-    margin-left: 1em;
+    margin-left: 0.5em;
 }
 
 .br {
