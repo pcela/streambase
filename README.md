@@ -1,3 +1,3 @@
-# streambase - projekt open-source
+# STREAMBASE - projekt open-source
 
 jak aktualizować spis, dodawać strony?
