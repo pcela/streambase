@@ -13,6 +13,22 @@ Adres strony internetowej: www.TheSB.eu
 
 <h3>jak edytować?</h3>
 
-każdy spis ma swoje oznaczenie, przykładowo <b>spis polskich stron</b> ma <b>sbpolskie</b> a więc po wejsciu w edycje pliku <b>index.html</b> wciśnij <b>CTRL + F</b> i wpisz interesującą Cię frazę.
+każdy spis ma swoje oznaczenie, by znaleźć konkretny, przykładowo <b>spis polskich stron</b> ma <b>#sbpolskie</b> a więc po wejściu w edycje pliku <b>index.html</b> wciśnij <b>CTRL + F</b> i wpisz interesującą Cię frazę.
 
 <h1>oznaczenia spisów:</h1>
+
+- spis polskich stron z filmami i serialami: <b>#sbpolskie</b>
+- narzędzia dla kinomaniaków: <b>#sbfilmynarzedzia</b>
+- spis angielskich stron z filmami i serialami: <b>#sbangielskie</b>
+- spis bajek: <b>#sbbajki</b>
+- spis anime: <b>#sbanime</b>
+- spis polskich torrentów: <b>#sbpltor</b>
+- spis angielskich torrentów: <b>#sbangtor</b>
+- narzędzia dla użytkowników torrentów: <b>#sbtornarzedzia</b>
+- spis polskich publicznych warezów: <b>#sbpubwar</b>
+- spis polskich prywatnych warezów: <b>#sbpwwar</b>
+- spis angielskich publicznych warezów: <b>#sbangpub</b>
+- spis for/stron z kontami premium: <b>#sbpremium</b>
+- spis stron ze sportem online: <b>#sbsport</b>
+- spis stron z telewizją online: <b>#sbtv</b>
+- spis stron z eBookami oraz AudioBookami: <b>#sbksiazki</b>
