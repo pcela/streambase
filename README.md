@@ -11,9 +11,9 @@ Adres strony internetowej: www.TheSB.eu
 4. następnie naciśnij "Create pull request", podpisz zmianę i zostaw ew. komentarz i ponownie naciśnij "Create pull request"
 5. w tym momencie twoja zmiana oczekuje na zatwierdzenie, będzie to niebawem, aby przyspieszyc proces odezwij się do mnie prywatnie poprzez wykop lub discord.
 
-<h3>jak edytować?</h3>
+<h3>jak łatwo znajdywać dany spis?</h3>
 
-każdy spis ma swoje oznaczenie, by znaleźć konkretny, przykładowo <b>spis polskich stron</b> ma <b>#sbpolskie</b> a więc po wejściu w edycje pliku <b>index.html</b> wciśnij <b>CTRL + F</b> i wpisz interesującą Cię frazę.
+każdy spis ma swoje oznaczenie, by znaleźć konkretny, przykładowo <b>spis polskich stron</b> ma <b>#sbpolskie</b> a więc po wejściu w edycje pliku <b>index.html</b> naciśnij w dowolne miejsce kodu i wciśnij <b>CTRL + F</b> a następnie wpisz interesującą Cię hashtag, oznaczenia podane są poniżej.
 
 <h1>oznaczenia spisów:</h1>
 
