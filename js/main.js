@@ -41,7 +41,7 @@ var Space = {
       this.canvas.style.opacity = 1;
   
       this.cow = new Image();
-      this.cow.src = '';
+      this.cow.src = 'https://gallery.yopriceville.com/var/resizes/Free-Clipart-Pictures/Fast-Food-PNG-Clipart/Hamburger_PNG_Vector_Picture.png?m=1507172108';
       this.cow.onload = function(){
         self.render();
       }
