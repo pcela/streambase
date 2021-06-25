@@ -1,4 +1,6 @@
-# STREAMBASE - projekt open-source
+# STREAMBASE - Spis źródeł internetowej rozrywki [Projekt open-source]
+
+##Strona: TheSB.eu
 
 jak aktualizować spis, dodawać strony?
 
