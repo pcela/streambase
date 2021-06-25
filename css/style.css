@@ -1,0 +1,362 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin);
+
+* {
+  font-family: Ubuntu;
+
+}
+
+#btt {
+  display: inline-block;
+  background-color: grey;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border-radius: 4px;
+  position: fixed;
+  bottom: 50px;
+  right: 30px;
+  transition: background-color .3s,
+    opacity .5s, visibility .5s;
+  opacity: 0;
+  visibility: hidden;
+  z-index: 999999;
+}
+
+#btt::after {
+  content: "\f077";
+  font-family: FontAwesome;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 2em;
+  line-height: 50px;
+  color: #fff;
+}
+
+#btt:hover {
+  cursor: pointer;
+  background-color: #333;
+}
+
+#btt:active {
+  background-color: #555;
+}
+
+#btt.show {
+  opacity: 1;
+  visibility: visible;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+  height: 3px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #646464;
+}
+
+::-webkit-scrollbar-track-piece {
+  background-color: black;
+}
+
+::-webkit-scrollbar-thumb {
+  height: 50px;
+  background-color: #666;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-corner {
+  background-color: #646464;
+}
+
+::-webkit-resizer {
+  background-color: #666;
+}
+
+.strony {
+  margin-top: 150rem;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  padding-left: 0.5em;
+  display: block;
+  margin-left: 10em;
+  margin-right: 10em;
+  min-height: 100%;
+  height: 100%;
+  z-index: 999999999;
+  background: #282828;
+  position: relative;
+}
+
+.content {
+  color: #d8d8f6;
+  font-size: 2em;
+}
+
+#canvas {
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  opacity: 0;
+}
+
+.text-divider {
+  margin: 2em 0;
+  line-height: 0;
+  text-align: center;
+  opacity: 0.4;
+}
+
+.text-divider span {
+  background-color: black;
+  color: white;
+  padding: 1em;
+}
+
+.text-divider:before {
+  content: " ";
+  display: block;
+  border-top: 0.5px solid grey;
+  border-bottom: 0.5px solid grey;
+}
+
+body {
+  padding-top: 16vmin;
+  background: black;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -o-user-select: none;
+  overflow-x: hidden;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
+.title {
+  text-align: center;
+  text-shadow: 2px 3px 3px rgba(0, 0, 0, 0.3);
+  font-size: 2rem;
+  color: #ffffff;
+}
+
+.description {
+  text-align: center;
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
+  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.9);
+  margin-bottom: 30px;
+  margin-top: 40px;
+}
+
+.dropdown-menu {
+  margin-top: 10px;
+  background-color: #f3f6f9;
+  border: 1px solid rgba(3, 27, 78, 0.1);
+  border-radius: 5px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  top: calc(100% + 8px) !important;
+  transform-style: preserve-3d;
+  border-top-color: transparent;
+  z-index: 999999999 !important;
+}
+
+.dropdown-menu:before {
+  content: "";
+  background-color: #f3f6f9;
+  border-bottom-left-radius: 1px;
+  border: 1px solid rgba(3, 27, 78, 0.1);
+  height: 15px;
+  position: absolute;
+  left: calc(50% - 10px);
+  top: -5px;
+  width: 20px;
+  transform: rotate(135deg) translateZ(-1px);
+
+}
+
+.dropdown-menu .dropdown-item {
+  transition: all 0.15s linear;
+  border: 1px solid transparent;
+  display: flex;
+  align-items: center;
+  padding: 16px 30px;
+}
+
+.dropdown-menu .dropdown-item .dropdown-item-icon {
+  flex-basis: 21px;
+}
+
+.dropdown-menu .dropdown-item .dropdown-item-icon i {
+  color: #111;
+}
+
+.dropdown-menu .dropdown-item .dropdown-item-content {
+  flex: 1 1 auto;
+  padding-left: 16px;
+}
+
+.dropdown-menu .dropdown-item .dropdown-item-content .dropdown-item-title {
+  color: #111;
+  margin: 0;
+}
+
+.dropdown-menu .dropdown-item .dropdown-item-content .dropdown-item-description {
+  color: rgba(3, 27, 78, 0.7);
+  margin: 0;
+}
+
+.dropdown-menu .dropdown-item:hover {
+  background-color: #ffffff;
+  border: 1px solid rgba(3, 27, 78, 0.1);
+  box-shadow: 0 2px 4px rgba(3, 27, 78, 0.06);
+  position: relative;
+  transform: scale(1.05);
+  z-index: 11;
+  border-radius: 5px;
+
+}
+
+.dropdown-menu-center {
+  left: 50% !important;
+  right: auto !important;
+  transform: translate(-50%, 0) !important;
+}
+
+.dropdown-menu-sm {
+  width: 200px;
+}
+
+.dropdown-menu-sm .dropdown-item .dropdown-item-content {
+  padding-left: 0px;
+}
+
+.dropdown-menu-md {
+  width: 280px;
+}
+
+.dropdown-menu-lg {
+  width: 420px;
+}
+
+* .discord-logo {
+  transform: scale(0.7);
+  transform-origin: 24px 24px;
+}
+
+.discord-corner {
+  transform: rotate(-45deg);
+  transform-origin: 60px 60px;
+}
+
+.discord-logo.softshake-animation .discord-original {
+  transform-origin: 24px 24px;
+}
+
+.discord-logo-container:hover .softshake-animation .discord-original,
+.animated .softshake-animation .discord-original {
+  animation: softshake 2000ms linear forwards;
+}
+
+@keyframes softshake {
+
+  0%,
+  66%,
+  100% {
+    transform: rotate(0deg)
+  }
+
+  3% {
+    transform: rotate(-18.0deg)
+  }
+
+  6% {
+    transform: rotate(14.4deg)
+  }
+
+  9% {
+    transform: rotate(-11.5deg)
+  }
+
+  12% {
+    transform: rotate(9.21deg)
+  }
+
+  15% {
+    transform: rotate(-7.37deg)
+  }
+
+  18% {
+    transform: rotate(5.89deg)
+  }
+
+  21% {
+    transform: rotate(-4.71deg)
+  }
+
+  24% {
+    transform: rotate(3.77deg)
+  }
+
+  27% {
+    transform: rotate(-3.02deg)
+  }
+
+  30% {
+    transform: rotate(2.41deg)
+  }
+
+  33% {
+    transform: rotate(-1.93deg)
+  }
+
+  36% {
+    transform: rotate(1.54deg)
+  }
+
+  39% {
+    transform: rotate(-1.23deg)
+  }
+
+  42% {
+    transform: rotate(0.99deg)
+  }
+
+  45% {
+    transform: rotate(-0.79deg)
+  }
+
+  48% {
+    transform: rotate(0.63deg)
+  }
+
+  51% {
+    transform: rotate(-0.50deg)
+  }
+
+  54% {
+    transform: rotate(0.40deg)
+  }
+
+  57% {
+    transform: rotate(-0.32deg)
+  }
+
+  60% {
+    transform: rotate(0.25deg)
+  }
+
+  63% {
+    transform: rotate(-0.20deg)
+  }
+}
+
+.bs-linebreak {
+  height: 20px;
+}
