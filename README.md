@@ -1,6 +1,6 @@
 # STREAMBASE - Spis źródeł internetowej rozrywki [Projekt open-source]
 
-##Strona: TheSB.eu
+Adres strony internetowej: www.TheSB.eu
 
 jak aktualizować spis, dodawać strony?
 
