@@ -32,3 +32,4 @@ każdy spis ma swoje oznaczenie, by znaleźć konkretny, przykładowo <b>spis po
 - spis stron ze sportem online: <b>#sbsport</b>
 - spis stron z telewizją online: <b>#sbtv</b>
 - spis stron z eBookami oraz AudioBookami: <b>#sbksiazki</b>
+- spis wyszukiwarek plików video: <b>#sbwyszukiwarki</b>
