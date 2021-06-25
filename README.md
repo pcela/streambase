@@ -13,7 +13,7 @@ Adres strony internetowej: www.TheSB.eu
 
 <h3>jak łatwo znajdywać dany spis?</h3>
 
-każdy spis ma swoje oznaczenie, by znaleźć konkretny, przykładowo <b>spis polskich stron</b> ma <b>#sbpolskie</b> a więc po wejściu w edycje pliku <b>index.html</b> naciśnij w dowolne miejsce kodu i wciśnij <b>CTRL + F</b> a następnie wpisz interesującą Cię hashtag, oznaczenia podane są poniżej.
+każdy spis ma swoje oznaczenie, by znaleźć konkretny, przykładowo <b>spis polskich stron</b> ma <b>#sbpolskie</b> a więc po wejściu w edycje pliku <b>index.html</b> naciśnij w dowolne miejsce kodu i wciśnij <b>CTRL + F</b> a następnie wpisz interesujący Cię hashtag, oznaczenia podane są poniżej.
 
 <h1>oznaczenia spisów:</h1>
 
