@@ -13,4 +13,4 @@ Adres strony internetowej: www.TheSB.eu
 
 <h3>jak edytować?</h3>
 
-każdy spis ma swoje oznaczenie, przykładowo <b>spis polskich stron<b> ma <b>sbpolskie</b> a więc po wejsciu w edycje pliku <b>index.html</b> wpić <b>CTRL + F</b> i wpisz interesującą Cię frazę.
+każdy spis ma swoje oznaczenie, przykładowo <b>spis polskich stron</b> ma <b>sbpolskie</b> a więc po wejsciu w edycje pliku <b>index.html</b> wpić <b>CTRL + F</b> i wpisz interesującą Cię frazę.
