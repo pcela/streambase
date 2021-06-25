@@ -2,7 +2,7 @@
 
 Adres strony internetowej: www.TheSB.eu
 
-####jak aktualizować spis, dodawać strony?
+<h3>jak aktualizować spis, dodawać strony?</h3>
 
 1. wejdź w plik index.html
 2. w prawym górnym rogu otworzonego pliku naciśnij ikonkę edycji (długopis)
