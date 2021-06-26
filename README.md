@@ -7,13 +7,17 @@ Adres strony internetowej: www.TheSB.eu
 
 1. wejdź w plik index.html
 2. w prawym górnym rogu otworzonego pliku naciśnij ikonkę edycji (długopis)
-3. wprowadź zmianę w kodzie (dodaj nową stronę/źródło), poczym naciśnij "Propose changes"
-4. następnie naciśnij "Create pull request", podpisz zmianę i zostaw ew. komentarz i ponownie naciśnij "Create pull request"
-5. w tym momencie twoja zmiana oczekuje na zatwierdzenie, będzie to niebawem, aby przyspieszyc proces odezwij się do mnie prywatnie poprzez wykop lub discord.
+3. wprowadź zmianę w kodzie (dodaj nową stronę/źródło), poczym naciśnij "<b>Propose changes</b>"
+4. następnie naciśnij "<b>Create pull request</b>", podpisz zmianę i zostaw ew. komentarz i ponownie naciśnij "<b>Create pull request</b>"
+5. w tym momencie twoja zmiana oczekuje na zatwierdzenie, będzie to niebawem, aby przyspieszyc proces odezwij się do mnie prywatnie poprzez <b>wykop</b> lub <b>discord</b>.
 
 <h3>jak łatwo znajdywać dany spis?</h3>
 
-każdy spis ma swoje oznaczenie, by znaleźć konkretny, przykładowo <b>spis polskich stron</b> ma <b>#sbpolskie</b> a więc po wejściu w edycje pliku <b>index.html</b> naciśnij w dowolne miejsce kodu i wciśnij <b>CTRL + F</b> a następnie wpisz interesujący Cię hashtag, oznaczenia podane są poniżej.
+każdy spis ma swoje oznaczenie, by znaleźć konkretny, przykładowo <b>spis polskich stron</b> ma <b>#sbpolskie</b> a więc po wejściu w edycje pliku <b>index.html</b> naciśnij w dowolne miejsce kodu i wciśnij <b>CTRL + F</b> a następnie wpisz interesujący Cię hashtag, oznaczenia podane są na dole.
+
+<h3>jak edytować kod skoro nie znam się na programowaniu?</h3>
+
+najprościej, gdy już znajdziemy interesujący nas spis (według podanych powyżej instrukcji), należy ostatnią linijke danego spisu skopiować i wkleić jako następną, poczym zmienić według kolejności jej numer, a następnie podmienić w niej adresy stron na te nowe (czyli dodać nową stronę). Jeżeli nadal nie rozumiesz, pełniejszy poradnik: www.TheSB.eu/jak-edytowac.txt
 
 <h1>oznaczenia spisów:</h1>
 
