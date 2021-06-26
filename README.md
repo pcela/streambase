@@ -1,6 +1,6 @@
 # STREAMBASE - Spis źródeł internetowej rozrywki
 
-Adres strony internetowej: TheSB.eu
+Adres strony internetowej: www.TheSB.eu
 <br>
 
 <h3>jak aktualizować spis, dodawać strony?</h3>
@@ -17,7 +17,7 @@ każdy spis ma swoje oznaczenie, by znaleźć konkretny, przykładowo <b>spis po
 
 <h3>jak edytować kod skoro nie znam się na programowaniu?</h3>
 
-najprościej, gdy już znajdziemy interesujący nas spis (według podanych powyżej instrukcji), należy ostatnią linijke danego spisu skopiować i wkleić jako następną, poczym zmienić według kolejności jej numer, a następnie podmienić w niej adresy stron na te nowe (czyli dodać nową stronę). Jeżeli nadal nie rozumiesz, pełniejszy poradnik: TheSB.eu/jak-edytowac.html
+najprościej, gdy już znajdziemy interesujący nas spis (według podanych powyżej instrukcji), należy ostatnią linijke danego spisu skopiować i wkleić jako następną, poczym zmienić według kolejności jej numer, a następnie podmienić w niej adresy stron na te nowe (czyli dodać nową stronę). Jeżeli nadal nie rozumiesz, pełniejszy poradnik: www.TheSB.eu/jak-edytowac.html
 
 <h1>oznaczenia spisów:</h1>
 
