@@ -37,3 +37,5 @@ najprościej, gdy już znajdziemy interesujący nas spis (według podanych powy�
 - spis stron z telewizją online: <b>#sbtv</b>
 - spis stron z eBookami oraz AudioBookami: <b>#sbksiazki</b>
 - spis wyszukiwarek plików video: <b>#sbwyszukiwarki</b>
+
+<img src="img/4.png" height="400px"/>
