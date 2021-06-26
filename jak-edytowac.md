@@ -17,7 +17,7 @@
 
 <img src="img/4.png" height="400px"/>
 
-<p>pamiętajcie, w 3 polu adres ma <b>NIE</b> zawierać przedrostka <b>http://</b> ani <b>https://</b> te przedrostki mają znajdować się jedynie w polu 2. 
+<p>pamiętajcie, w polu 3 adres ma <b>NIE</b> zawierać przedrostka <b>http://</b> ani <b>https://</b> te przedrostki mają znajdować się jedynie w polu 2. 
   Jeżeli zmieniliście wszystko tak jak w tym poradniku, możecie przejść do zapisu, ta część była jasno opisana tu: 
   <a href="https://github.com/RugFlipper/streambase/blob/main/README.md#jak-aktualizowa%C4%87-spis-dodawa%C4%87-strony" 
      target="_blank" style="text-decoration: none;"><b>Link</b></a></p>
