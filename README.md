@@ -5,7 +5,7 @@ Adres strony internetowej: <a href="https://thesb.eu" target="_blank">TheSB.eu</
 
 <h3>jak aktualizować spis, dodawać strony?</h3>
 
-1. naciśnij/wejdź w plik <b>index.html</b> (widoczny powyżej/na górze strony w liście plików)
+1. naciśnij/wejdź w plik <b>index.html</b> (widoczny powyżej/na górze strony, w liście plików)
 2. w prawym górnym rogu otworzonego pliku naciśnij ikonkę edycji (długopis)
 3. wprowadź zmianę w kodzie (dodaj nową stronę/źródło), poczym naciśnij "<b>Propose changes</b>"
 4. następnie naciśnij "<b>Create pull request</b>", podpisz zmianę i zostaw ew. komentarz i ponownie naciśnij "<b>Create pull request</b>"
