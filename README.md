@@ -1,15 +1,15 @@
 # STREAMBASE - Spis źródeł internetowej rozrywki
 
-Adres strony internetowej: www.TheSB.eu
+Adres strony internetowej: <a href="https://thesb.eu" target="_blank">TheSB.eu</a>
 <br>
 
 <h3>jak aktualizować spis, dodawać strony?</h3>
 
-1. wejdź w plik index.html
+1. naciśnij/wejdź w plik <b>index.html</b> (widoczny powyżej/na górze strony, w liście plików)
 2. w prawym górnym rogu otworzonego pliku naciśnij ikonkę edycji (długopis)
 3. wprowadź zmianę w kodzie (dodaj nową stronę/źródło), poczym naciśnij "<b>Propose changes</b>"
 4. następnie naciśnij "<b>Create pull request</b>", podpisz zmianę i zostaw ew. komentarz i ponownie naciśnij "<b>Create pull request</b>"
-5. w tym momencie twoja zmiana oczekuje na zatwierdzenie, będzie to niebawem, aby przyspieszyc proces odezwij się do mnie prywatnie poprzez <b>wykop</b> lub <b>discord</b>.
+5. w tym momencie twoja zmiana oczekuje na zatwierdzenie, będzie to niebawem, aby przyspieszyc proces odezwij się do mnie prywatnie poprzez <b><a href="https://www.wykop.pl/ludzie/RugFlipper/">wykop</a></b> lub <b><a href="https://discord.gg/h7jKFh8WQt">discord</a></b>.
 
 <h3>jak łatwo znajdywać dany spis?</h3>
 
@@ -17,7 +17,8 @@ każdy spis ma swoje oznaczenie, by znaleźć konkretny, przykładowo <b>spis po
 
 <h3>jak edytować kod skoro nie znam się na programowaniu?</h3>
 
-najprościej, gdy już znajdziemy interesujący nas spis (według podanych powyżej instrukcji), należy ostatnią linijke danego spisu skopiować i wkleić jako następną, poczym zmienić według kolejności jej numer, a następnie podmienić w niej adresy stron na te nowe (czyli dodać nową stronę). Jeżeli nadal nie rozumiesz, pełniejszy poradnik: www.TheSB.eu/jak-edytowac.md
+najprościej, gdy już znajdziemy interesujący nas spis (według podanych powyżej instrukcji), należy ostatnią linijke danego spisu skopiować i wkleić jako następną, poczym zmienić według kolejności jej numer, a następnie podmienić w niej adresy stron na te nowe (czyli dodać nową stronę). Jeżeli nadal nie rozumiesz, pełniejszy poradnik (dla początkujących): <a href="https://github.com/RugFlipper/streambase/blob/main/jak-edytowac.md#jak-dodawa%C4%87-strony-je%C5%BCeli-nie-znamy-si%C4%99-na-programowaniu" 
+     target="_blank" style="text-decoration: none;"><b>Link</b></a>
 
 <h1>oznaczenia spisów:</h1>
 
