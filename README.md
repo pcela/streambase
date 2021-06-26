@@ -1,6 +1,6 @@
 # STREAMBASE - Spis źródeł internetowej rozrywki
 
-Adres strony internetowej: www.TheSB.eu
+Adres strony internetowej: <a href="https://thesb.eu">TheSB.eu</a>
 <br>
 
 <h3>jak aktualizować spis, dodawać strony?</h3>
@@ -17,7 +17,7 @@ każdy spis ma swoje oznaczenie, by znaleźć konkretny, przykładowo <b>spis po
 
 <h3>jak edytować kod skoro nie znam się na programowaniu?</h3>
 
-najprościej, gdy już znajdziemy interesujący nas spis (według podanych powyżej instrukcji), należy ostatnią linijke danego spisu skopiować i wkleić jako następną, poczym zmienić według kolejności jej numer, a następnie podmienić w niej adresy stron na te nowe (czyli dodać nową stronę). Jeżeli nadal nie rozumiesz, pełniejszy poradnik: <a href="https://github.com/RugFlipper/streambase/blob/main/jak-edytowac.md" 
+najprościej, gdy już znajdziemy interesujący nas spis (według podanych powyżej instrukcji), należy ostatnią linijke danego spisu skopiować i wkleić jako następną, poczym zmienić według kolejności jej numer, a następnie podmienić w niej adresy stron na te nowe (czyli dodać nową stronę). Jeżeli nadal nie rozumiesz, pełniejszy poradnik (dla początkujących): <a href="https://github.com/RugFlipper/streambase/blob/main/jak-edytowac.md#jak-dodawa%C4%87-strony-je%C5%BCeli-nie-znamy-si%C4%99-na-programowaniu" 
      target="_blank" style="text-decoration: none;"><b>Link</b></a>
 
 <h1>oznaczenia spisów:</h1>
