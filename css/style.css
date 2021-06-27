@@ -134,7 +134,7 @@ body {
 }
 
 a:hover {
-  opacity: 60%;
+  opacity: 50%;
   text-decoration: none;
   transition: 0.4s;
 }
