@@ -89,8 +89,8 @@
 }
 
 .content {
-  color: #d8d8f6;
-  font-size: 2em;
+  color: #F5F5F5;
+  font-size: 25px;
 }
 
 #canvas {
@@ -362,3 +362,10 @@ a:hover {
 .bs-linebreak {
   height: 20px;
 }
+li {
+  display: list-item !important;
+  border-bottom: none !important;
+  border-top: none !important;
+  background-color: transparent !important;
+  font-size: 20px !important;
+  }
