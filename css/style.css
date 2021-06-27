@@ -124,7 +124,7 @@
 
 body {
   padding-top: 16vmin;
-  background: black;
+  background: #000;
   -moz-user-select: none;
   -webkit-user-select: none;
   -ms-user-select: none;
