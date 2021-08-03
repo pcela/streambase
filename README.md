@@ -9,7 +9,7 @@ Adres strony internetowej: <a href="https://thesb.eu" target="_blank">TheSB.eu</
 2. w prawym górnym rogu otworzonego pliku naciśnij ikonkę edycji (długopis)
 3. wprowadź zmianę w kodzie (dodaj nową stronę/źródło), poczym naciśnij "<b>Propose changes</b>"
 4. następnie naciśnij "<b>Create pull request</b>", podpisz zmianę i zostaw ew. komentarz i ponownie naciśnij "<b>Create pull request</b>"
-5. w tym momencie twoja zmiana oczekuje na zatwierdzenie, będzie to niebawem, aby przyspieszyć proces odezwij się do mnie prywatnie poprzez <b><a href="https://www.wykop.pl/ludzie/RugFlipper/">wykop</a></b> lub <b><a href="https://discord.gg/h7jKFh8WQt">discord</a></b>.
+5. w tym momencie twoja zmiana oczekuje na zatwierdzenie, będzie to niebawem, aby przyspieszyć proces odezwij się do mnie prywatnie poprzez <b><a href="https://www.wykop.pl/ludzie/RugFlipper/">wykop</a></b> lub <b><a href="https://discord.gg/3wQ3WQabEp">discord</a></b>.
 
 <h3>jak łatwo znajdywać dany spis?</h3>
 
