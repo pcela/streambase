@@ -134,11 +134,15 @@ body {
 }
 
 a:hover {
-  opacity: 50%;
+  /* opacity: 50%; */
   text-decoration: none;
   transition: 0.4s;
 }
 
+.links:hover {
+  opacity: 50%;
+  transition: 0.4s
+}
 
 .title {
   text-align: center;
